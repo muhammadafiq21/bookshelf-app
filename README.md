@@ -29,7 +29,7 @@ Dicoding hadir sebagai platform pendidikan teknologi yang membantu menghasilkan 
 
 ### Links
 
-- [Live site URL]([https://ijuldev.github.io/bookshelf-app](https://bookshelf-app-inky.vercel.app/))
+- [Live site URL](https://bookshelf-app-inky.vercel.app/)
 
 ## My process
 
